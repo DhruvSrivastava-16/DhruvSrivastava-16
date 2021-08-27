@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on exciting projects that are aimed to practical deployment for use
 - 📫 Reach me at dhruvsri@usc.edu
 
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSrivastava-16&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSrivastava-16&layout=compact&theme=synthwave)](https://github.com/DhruvSrivastava-16/github-readme-stats)
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSrivastava-16&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvSrivastava-16&layout=compact&theme=dracula)](https://github.com/DhruvSrivastava-16/github-readme-stats)
 
 
 <!---
